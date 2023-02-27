@@ -1,6 +1,4 @@
-# Online Grocery Shop
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+# Earthly Delights
 ## SCREENSHOTS
 ### Home Page
 <p>
